@@ -1,5 +1,8 @@
-# 💫 About Me:
-🧬👨🏻‍💻 Aspiring Bioinformatician and Computational Biologist<br>🎓🔢 Studied Mathematics at the University of the Philippines Diliman<br>💻🔬 My research interests are: Computational Epigenetics, Deep Learning, and Computer Vision<br>💭💡 Currently learning about Diffusion Models and other generative AI models
+# ⚡️ Hola, ich bin Tyrone:
+🧬👨🏻‍💻 Aspiring Bioinformatician and Computational Biologist<br>
+🎓🔢 Studied Mathematics at the University of the Philippines Diliman<br>
+💻🔬 My research interests are: Computational Epigenetics, Deep Learning, and Computer Vision<br>
+💭💡 Currently learning about Diffusion Models and other generative AI models
 
 
 # 💻 Tech Stack:
