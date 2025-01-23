@@ -1,7 +1,7 @@
 # ⚡️ Hola, ich bin Tyrone!
 🧬👨🏻‍💻 Aspiring **Bioinformatician** and **Computational Biologis**t<br>
 🎓🔢 Studied **Mathematics** at the **University of the Philippines Diliman**<br>
-💻🔬 My research interests are: **Computational Epigenetics**, **Deep Learning**, and **Computer Vision**<br>
+🤖🔬 My research interests are: **Computational Epigenetics**, **Deep Learning**, and **Computer Vision**<br>
 💭💡 Currently learning about **Diffusion Models** and other g**enerative AI models for protein and drug design**
 
 
